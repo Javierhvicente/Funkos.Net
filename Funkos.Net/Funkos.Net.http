@@ -1,0 +1,6 @@
+@Funkos.Net_HostAddress = http://localhost:5203
+
+GET {{Funkos.Net_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
